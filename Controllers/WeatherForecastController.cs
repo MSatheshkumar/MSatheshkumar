@@ -7,7 +7,7 @@ namespace WeatherForecastSG.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        //sample code added
+        //sample code added - new
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
