@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WeatherForecastSG.Controllers
 {
-//summary - second data - new 
+//summary - second data - new data
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
