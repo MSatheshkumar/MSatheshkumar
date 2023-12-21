@@ -31,3 +31,5 @@ E:\saintgobain\WeatherForecastSG\obj\Debug\net7.0\refint\WeatherForecastSG.dll
 E:\saintgobain\WeatherForecastSG\obj\Debug\net7.0\WeatherForecastSG.pdb
 E:\saintgobain\WeatherForecastSG\obj\Debug\net7.0\WeatherForecastSG.genruntimeconfig.cache
 E:\saintgobain\WeatherForecastSG\obj\Debug\net7.0\ref\WeatherForecastSG.dll
+E:\saintgobain\WeatherForecastSG\bin\Debug\net7.0\WeatherForecastSG.yaml
+E:\saintgobain\WeatherForecastSG\obj\Debug\net7.0\WeatherForecastSG.sourcelink.json
