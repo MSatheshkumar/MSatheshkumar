@@ -2,11 +2,12 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WeatherForecastSG.Controllers
 {
-//summary
+//summary 
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //sample code added
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
